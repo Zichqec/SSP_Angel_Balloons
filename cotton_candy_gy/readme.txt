@@ -5,3 +5,5 @@ https://github.com/Zichqec/SSP_Angel
 
 GallaTheGalla: https://gallathegalla.github.io/gtg-ghosts/ - Color options
 Yuyudev: https://twitter.com/yuyudev - Balloon base
+
+Version 1.0.0
