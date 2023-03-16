@@ -1,0 +1,5 @@
+Charset,UTF-8
+homeurl_found,1
+homeurl,https://raw.githubusercontent.com/Zichqec/SSP_Angel/main/angelbox_gz/
+update_result,OK(1)
+update_time,732249977

@@ -1,0 +1,5 @@
+Charset,UTF-8
+homeurl_found,1
+homeurl,https://raw.githubusercontent.com/Zichqec/SSP_Angel/main/cotton_candy_gy/
+update_result,OK(1)
+update_time,732250007
