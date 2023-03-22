@@ -9,7 +9,8 @@ Angelbox is a plain angel-themed balloon, with different colors for each charact
 ## Angelbox (Biblically Accurate)
 Angelbox (Biblically Accurate) is an expanded version of the Angelbox balloon, having 43 color options. Each color option includes special markers, arrows, etc., giving this balloon a rather large footprint at over 800 files. The default balloon color option is a mixture of the sakura and kero balloons from the original Angelbox, with the individual versions available as alternate colors.
 
-![Angelbox (BIblically Accurate) thumbnail](https://user-images.githubusercontent.com/36972872/227043568-1046cbcf-fbf2-4300-abc4-ef65386b6693.png)
+![Angelbox (BIblically Accurate) thumbnail](https://user-images.githubusercontent.com/36972872/227043568-1046cbcf-fbf2-4300-abc4-ef65386b6693.png)  ![Angelbox (Biblically Accurate) color alternate](https://user-images.githubusercontent.com/36972872/227044682-aed00544-6296-4920-a2f1-400d35543f57.png)
+
 
 ## Cotton Candy
 Cotton Candy is a textured balloon with a cotton candy theme, and has 15 different color options representing different flavors. It is more compact than Angelbox, and has a slightly larger text size.
@@ -24,3 +25,4 @@ These balloons were a collaborative effort, made by members of the "Angel Team".
 [Yuyudev](https://twitter.com/yuyudev) - Cotton Candy balloon base
 
 [Zichqec](https://zichqec.github.io/s-the-skeleton/) - Angelbox balloon base
+
