@@ -3,17 +3,17 @@ sstpmarker.filename,sstp30
 arrow.filename,arrow30_
 onlinemarker.filename,online30_
 
-font.color.r,161
-font.color.g,113
-font.color.b,053
+font.color.r,125
+font.color.g,088
+font.color.b,041
 
 anchor.font.color.r,235
 anchor.font.color.g,049
 anchor.font.color.b,035
 
-disable.font.color.r,199
-disable.font.color.g,175
-disable.font.color.b,145
+disable.font.color.r,186
+disable.font.color.g,164
+disable.font.color.b,136
 
 sstpmessage.font.color.r,199
 sstpmessage.font.color.g,175
